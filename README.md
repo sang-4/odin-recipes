@@ -1,0 +1,1 @@
+A simple recipes website built with pure HTML
